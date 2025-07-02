@@ -7,6 +7,11 @@
     "icon": "./assets/images/icon.png",
     "scheme": "rideshare",
     "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/image/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true
